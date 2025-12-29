@@ -8,7 +8,7 @@ const experiences = [
   {
     role: "Data Analytics Trainee",
     company: "MedTourEasy",
-    period: "Feb 2024 – Mar 2024",
+    period: "Sep 2025 – Oct 2025",
     location: "Remote",
     highlights: [
       "Conducted analysis on healthcare datasets to identify trends in patient care.",
@@ -17,25 +17,25 @@ const experiences = [
     ],
   },
   {
-    role: "Data Analyst Intern",
-    company: "UptoSkills",
-    period: "Jan 2024 – Feb 2024",
-    location: "Remote",
-    highlights: [
-      "Analyzed business data to provide insights for process optimization.",
-      "Collaborated with cross-functional teams to define data requirements.",
-      "Assisted in creating automated reporting systems using Python.",
-    ],
-  },
-  {
     role: "AI Intern",
     company: "Edunet Foundation",
-    period: "Oct 2023 – Nov 2023",
+    period:"Jul 2025 – Aug 2025",
     location: "Remote",
     highlights: [
       "Explored various machine learning algorithms for image recognition.",
       "Built a prototype AI system for automated document classification.",
       "Participated in workshops on advanced deep learning techniques.",
+    ],
+  },
+  {
+    role: "Data Analyst Intern",
+    company: "UptoSkills",
+    period: "Feb 2025 – May 2025",
+    location: "Remote",
+    highlights: [
+      "Analyzed business data to provide insights for process optimization.",
+      "Collaborated with cross-functional teams to define data requirements.",
+      "Assisted in creating automated reporting systems using Python.",
     ],
   },
 ]
